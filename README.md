@@ -4,7 +4,7 @@
                                                 
                                                   WEB SERVICE SOAP
                                                   
-                                                  servicios de webservice :  
-                                                  base de datos
+                                                      servicios de webservice :  
+                                                      base de datos
                                                 
                                                   . NET REPORTS
